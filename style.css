@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
+body {
+    font-family: 'Poppins';
+   }       
+table, th, td {
+    border: solid black 1px;
+    padding: 15px 20px;
+    text-align: center;
+}
+.huakor5 {
+ height: 400px;
+ background-color: grey;
+ text-align: center;
+ justify-content: center;
+}
